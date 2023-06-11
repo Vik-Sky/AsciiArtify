@@ -1,4 +1,4 @@
-*** Доступу до інтерфейсу ArgoCD ***
+# Доступу до інтерфейсу ArgoCD
 ![Image](.data/NyECtcwVp.gif)
 
 > [!NOTE]
