@@ -1,2 +1,2 @@
 # Доступу до інтерфейсу ArgoCD
-![Image](/.data/NyECtcwVp.gif)
+![Image](/.data/2doy0n.gif)
